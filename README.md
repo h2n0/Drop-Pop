@@ -3,7 +3,6 @@ A lightweight pop-up and drop-down purely java-script library
 
 ## Pop-ups
 ![Pop-up example](./res/pop.gif)
-Simple enough to code and gets started in seconds.
 
 ```
 let popup = new Pop("Header Text", "Inner Content");
